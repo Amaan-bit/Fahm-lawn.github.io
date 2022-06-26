@@ -673,6 +673,9 @@ header #logo a{
     height: auto;
     text-align: center;
 	}
+	.event-content{
+	padding:50px;
+	}
 }
 
 @media(max-width: 375px){
