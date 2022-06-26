@@ -426,7 +426,7 @@ header #logo a{
     margin-bottom: 10px;
     font-size: 16px;
     font-family: Merriweather;
-    text-align: justify;
+    text-align: center;
 }
 #sub-footer p span{
 	color: #ff5f6a;
